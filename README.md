@@ -1,4 +1,4 @@
-# ftpd
+# kaihen-ftpd-plugin
 
 An FTP server for the SD card on Switch 2, built as a
 kaiHEN plugin. It starts at boot, before HEN, and
