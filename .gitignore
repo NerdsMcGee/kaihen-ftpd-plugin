@@ -1,0 +1,6 @@
+build/
+*.nso
+*.elf
+*.map
+build.log
+.DS_Store
